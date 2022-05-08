@@ -1,0 +1,3 @@
+copy_and_rename/*
+node_modules/*
+package-lock.json
